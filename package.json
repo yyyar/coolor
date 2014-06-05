@@ -1,7 +1,7 @@
 {
   "name": "coolor",
   "description": "Simple command-line tool: log streams colorizer",
-  "version:": "0.1.0",
+  "version": "0.0.1",
   "author": {
       "name": "Yaroslav Pogrebnyak",
       "url": "http://pogrebnyak.info",
@@ -22,7 +22,7 @@
       "color",
       "logs"
   ],
-  "license": "MIT",
+  "license": "GPL",
   "engines": {
       "node": ">= 0.10.12"
   },
