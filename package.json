@@ -1,7 +1,7 @@
 {
   "name": "coolor",
   "description": "Simple command-line tool: log streams colorizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
       "name": "Yaroslav Pogrebnyak",
       "url": "http://pogrebnyak.info",
@@ -32,6 +32,6 @@
   },
   "readmeFilename": "README.md",
   "bin": {
-    "cooler": "./index.js"
+    "coolor": "./index.js"
   }
 }
