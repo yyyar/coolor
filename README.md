@@ -20,5 +20,5 @@ $ tail -f /var/log/something.log | coolor ~/your/config.json
 ```
 
 #### Author
-Yaroslav Pogrebnyak <yyyaroslav@gmail.com>
+* [Yaroslav Pogrebnyak](https://github.com/yyyar/)
 
