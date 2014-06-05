@@ -1,0 +1,50 @@
+{
+    "comment": "Default style for patterns like: 2020-03-02 12:00:00 [INFO] (process) hello world!",
+    "general": {
+        "stripExistingColors": true
+    },
+
+    "defaults": {
+        "style": ["gray"],
+        "flags": "ig",
+        "group": "$1"
+    },
+
+    "rules": [
+        {
+            "pattern": "(.*ERROR.*)",
+            "style": ["red"]
+        },
+        {
+            "pattern": "(.*(TRACE|DEBUG).*)",
+            "style": ["reset"]
+        },
+        {
+            "pattern": "(.*(INFO).*)",
+            "style": ["green"]
+        },
+        {
+            "pattern": "(.*(WARN).*)",
+            "style": ["yellow"]
+        },
+        {
+            "pattern": "(.*(ERROR|FATAL).*)",
+            "style": ["red"]
+        },
+        {
+            "pattern": "^(.*? .*?(?= +\\[))",
+            "style": ["underline"]
+        },
+        {
+            "pattern": "(\\[? *(TRACE|DEBUG|INFO|WARN|ERROR|FATAL) *\\]?)",
+            "style": ["bold"]
+        },
+
+        {
+            "pattern": "(\\(.*?\\))",
+            "style": ["magenta"]
+        }
+    ]
+}
+
+
