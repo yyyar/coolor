@@ -1,6 +1,6 @@
 ## coolor
 
-[![Build Status](https://travis-ci.org/yyyar/coolor.svg?branch=master)](https://travis-ci.org/yyyar/coolor) [![NPM version](https://badge.fury.io/js/coolor.svg)](http://badge.fury.io/js/coolor)
+[![NPM version](https://badge.fury.io/js/coolor.svg)](http://badge.fury.io/js/coolor)
 
 
 Simple command-line utility: text stream colorizer
