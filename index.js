@@ -33,7 +33,7 @@ var rl = readline.createInterface({
     terminal: false
 });
 
-var configPath = process.argv[2] || './config/default.json';
+var configPath = process.argv[2] || __dirname + '/config/default.json';
 
 /* load rules */
 var conf = require(configPath);
