@@ -158,6 +158,10 @@ a.button span {
 #download-tar-gz span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
+#view-on-npm span {
+  background: transparent url(../images/npm.ico) 12px 50% no-repeat;
+  background-size: 32px;
+}
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
