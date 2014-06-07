@@ -36,7 +36,7 @@
             "style": ["underline"]
         },
         {
-            "pattern": "(\\[? *(TRACE|DEBUG|INFO|WARN|ERROR|FATAL) *\\]?)",
+            "pattern": "(\\[ *(TRACE|DEBUG|INFO|WARN|ERROR|FATAL) *\\])",
             "style": ["bold"]
         },
 

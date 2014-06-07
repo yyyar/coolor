@@ -1,7 +1,7 @@
 {
   "name": "coolor",
   "description": "Simple command-line tool: log streams colorizer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
       "name": "Yaroslav Pogrebnyak",
       "url": "http://pogrebnyak.info",
