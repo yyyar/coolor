@@ -5,6 +5,9 @@
 
 Simple command-line utility: text stream colorizer
 
+![Screenshot](http://oi62.tinypic.com/2remmat.jpg "Screenshot")
+
+
 #### Installation
 ```bash
 $ npm install coolor -g
